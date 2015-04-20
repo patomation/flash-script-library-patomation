@@ -1,0 +1,1 @@
+﻿//// Fade zoom in reveal//// This command was recorded by Adobe Flash CS6.//// Scale: 1.13, 1.13fl.getDocumentDOM().scaleSelection(1.13, 1.13);// Instance Alpha: 0%fl.getDocumentDOM().setInstanceAlpha(0);// Create Classic Tweenfl.getDocumentDOM().getTimeline().createMotionTween();

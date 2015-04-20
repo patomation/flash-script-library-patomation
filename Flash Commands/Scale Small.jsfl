@@ -1,0 +1,1 @@
+﻿//// Scale Small//// This command was recorded by Adobe Flash CS6.//// Scale: 0.01, 0.01fl.getDocumentDOM().scaleSelection(0.01, 0.01);

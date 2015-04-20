@@ -1,0 +1,1 @@
+﻿//// Easing 0//// This command was recorded by Adobe Flash CS6.//// Frame Property: tweenEasing, 0fl.getDocumentDOM().getTimeline().setFrameProperty('tweenEasing', 0);

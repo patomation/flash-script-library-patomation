@@ -1,0 +1,1 @@
+﻿//// Make Alfa 0%//// This command was recorded by Adobe Flash CS6.//// Instance Alpha: 0%fl.getDocumentDOM().setInstanceAlpha(0);

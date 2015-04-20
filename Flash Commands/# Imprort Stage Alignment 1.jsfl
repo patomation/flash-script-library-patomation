@@ -1,0 +1,1 @@
+﻿//// # Imprort Stage Alignment 1//// This command was recorded by Adobe Flash CS6.//// Groupfl.getDocumentDOM().group();// Align: left, truefl.getDocumentDOM().align('left', true);// Align: top, truefl.getDocumentDOM().align('top', true);// Ungroupfl.getDocumentDOM().unGroup();

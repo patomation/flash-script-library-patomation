@@ -1,0 +1,1 @@
+﻿//// Slow Zoom out//// This command was recorded by Adobe Flash CS6.//// Scale: 1.05, 1.05fl.getDocumentDOM().scaleSelection(1.05, 1.05);// Create Classic Tweenfl.getDocumentDOM().getTimeline().createMotionTween();

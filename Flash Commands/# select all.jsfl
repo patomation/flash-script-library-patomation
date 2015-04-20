@@ -1,0 +1,1 @@
+﻿//// # select all//// This command was recorded by Adobe Flash CS6.//// Select Allfl.getDocumentDOM().selectAll();

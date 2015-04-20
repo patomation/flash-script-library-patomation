@@ -1,0 +1,1 @@
+﻿//// # Clasic Tween 100 ease in//// This command was recorded by Adobe Flash CS6.//// Create Classic Tweenfl.getDocumentDOM().getTimeline().createMotionTween();// Frame Property: tweenEasing, 100fl.getDocumentDOM().getTimeline().setFrameProperty('tweenEasing', 100);

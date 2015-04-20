@@ -1,0 +1,1 @@
+﻿//// # Shape Tween 100 ease in//// This command was recorded by Adobe Flash CS6.//// Create Shape Tweenfl.getDocumentDOM().getTimeline().setFrameProperty('tweenType', 'shape');// Frame Property: tweenEasing, 100fl.getDocumentDOM().getTimeline().setFrameProperty('tweenEasing', 100);

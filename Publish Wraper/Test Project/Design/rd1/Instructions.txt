@@ -1,0 +1,81 @@
+Art Files Printing Instructions for Service Provider
+
+Date: 07/13/2012 03:43 PM
+
+--------------
+Contact Info
+--------------
+
+
+
+--------------
+Notes
+--------------
+
+
+
+--------------
+Collection Log
+--------------
+
+√ fabritech_rd1.ai
+  √ Images
+    √ stock-photo-heap-of-mobile-phones-isolated-on-white-background-23050012.jpeg
+    √ stock-photo-17385567-mobile-phone-during-the-reparation.jpeg
+    √ stock-photo-part-of-cell-phone-37919794.psd
+    √ stock-photo-15139309-electronic-technician-gsm.jpeg
+    √ stock-photo-11920595-gsm-service-repair.jpeg
+    √ stock-photo-young-business-man-with-problems-and-stress-in-the-office-99641525.jpeg
+    √ 75675796 (1).jpg
+    √ stock-photo-late-for-school-or-work-this-is-obviously-not-meant-to-be-sharp-82532.jpeg
+    √ stock-photo-handshake-isolated-on-business-background-74707159 (1).jpeg
+    √ stock-photo-components-of-mobile-phone-6296488.jpeg
+    √ 78487077.jpg
+    √ stock-photo-portrait-of-a-smiling-young-guy-speaking-on-mobile-phone-in-a-park-outdoor-64606678.jpeg
+    √ stock-photo-mobile-phone-dismantled-3374168.jpeg
+    √ 121141969.jpg
+    √ stock-photo-dishes-on-a-telecommunications-tower-at-the-sunset-76070818.jpeg
+    √ stock-photo-doctor-with-a-cellphone-and-laptop-computer-81322207.jpeg
+    √ stock-photo-mobile-phone-in-man-hand-79029379.jpeg
+    √ stock-photo-cars-73909861.jpeg
+    √ stock-photo-close-up-of-the-blue-circuit-board-96019034.psd
+    √ stock-photo-portrait-of-smart-businessman-thinking-about-something-with-smile-in-office-58787056.jpeg
+  √ Fonts
+    √ DIN-Light
+    √ DIN-Medium
+    √ Helvetica
+    √ HelveticaNeueLTStd-Md
+    √ ModernPictograms
+    √ MyriadPro-Regular
+
+
+√ fabritech_rd1.ai; type: Illustrator Document; size: 8.7 MB copied successfully.
+√ 121141969.jpg; type: JPEG Image; size: 67 KB copied successfully.
+√ 75675796 (1).jpg; type: JPEG Image; size: 109 KB copied successfully.
+√ 78487077.jpg; type: JPEG Image; size: 78 KB copied successfully.
+√ stock-photo-11920595-gsm-service-repair.jpeg; type: JPEG Image; size: 44 KB copied successfully.
+√ stock-photo-15139309-electronic-technician-gsm.jpeg; type: JPEG Image; size: 70 KB copied successfully.
+√ stock-photo-17385567-mobile-phone-during-the-reparation.jpeg; type: JPEG Image; size: 46 KB copied successfully.
+√ stock-photo-cars-73909861.jpeg; type: JPEG Image; size: 61 KB copied successfully.
+√ stock-photo-close-up-of-the-blue-circuit-board-96019034.psd; type: Photoshop Image; size: 0.9 MB copied successfully.
+√ stock-photo-components-of-mobile-phone-6296488.jpeg; type: JPEG Image; size: 30 KB copied successfully.
+√ stock-photo-dishes-on-a-telecommunications-tower-at-the-sunset-76070818.jpeg; type: JPEG Image; size: 39 KB copied successfully.
+√ stock-photo-doctor-with-a-cellphone-and-laptop-computer-81322207.jpeg; type: JPEG Image; size: 27 KB copied successfully.
+√ stock-photo-handshake-isolated-on-business-background-74707159 (1).jpeg; type: JPEG Image; size: 31 KB copied successfully.
+√ stock-photo-heap-of-mobile-phones-isolated-on-white-background-23050012.jpeg; type: JPEG Image; size: 33 KB copied successfully.
+√ stock-photo-late-for-school-or-work-this-is-obviously-not-meant-to-be-sharp-82532.jpeg; type: JPEG Image; size: 19 KB copied successfully.
+√ stock-photo-mobile-phone-dismantled-3374168.jpeg; type: JPEG Image; size: 43 KB copied successfully.
+√ stock-photo-mobile-phone-in-man-hand-79029379.jpeg; type: JPEG Image; size: 24 KB copied successfully.
+√ stock-photo-part-of-cell-phone-37919794.psd; type: Photoshop Image; size: 455 KB copied successfully.
+√ stock-photo-portrait-of-a-smiling-young-guy-speaking-on-mobile-phone-in-a-park-outdoor-64606678.jpeg; type: JPEG Image; size: 48 KB copied successfully.
+√ stock-photo-portrait-of-smart-businessman-thinking-about-something-with-smile-in-office-58787056.jpeg; type: JPEG Image; size: 34 KB copied successfully.
+√ stock-photo-young-business-man-with-problems-and-stress-in-the-office-99641525.jpeg; type: JPEG Image; size: 25 KB copied successfully.
+√ DINLt.ttf; type: Font File; size: 87 KB copied successfully.
+√ DINMd.ttf; type: Font File; size: 70 KB copied successfully.
+√ Helvetica.dfont; type: Font File; size: 2.8 MB copied successfully.
+√ HelveticaNeueLTStd-Md.otf; type: Font File; size: 27 KB copied successfully.
+√ modernpics.otf; type: Font File; size: 25 KB copied successfully.
+√ MyriadPro-Regular.otf; type: Font File; size: 92 KB copied successfully.
+
+------------------------------
+√ OK  |  ! Warning  |  X Error

@@ -1,0 +1,1 @@
+﻿//// Remove Tween//// This command was recorded by Adobe Flash CS6.//// Remove Tweenfl.getDocumentDOM().getTimeline().setFrameProperty('tweenType', 'none');

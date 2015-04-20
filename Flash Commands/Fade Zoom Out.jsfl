@@ -1,0 +1,1 @@
+﻿//// Fade Zoom Out//// This command was recorded by Adobe Flash CS6.//// Scale: 0.81, 0.81fl.getDocumentDOM().scaleSelection(0.81, 0.81);// Instance Alpha: 0%fl.getDocumentDOM().setInstanceAlpha(0);

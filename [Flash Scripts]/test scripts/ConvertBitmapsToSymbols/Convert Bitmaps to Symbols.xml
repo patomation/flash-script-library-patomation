@@ -1,0 +1,86 @@
+<!--
+	Convert Bitmaps to Symbols extension
+	
+	Version: 1.0.0
+	
+	Created by:
+		Ben Clinkinbeard
+		ben.clinkinbeard@gmail.com
+		http://www.returnundefined.com
+		
+		and
+		
+		Mike Weiner
+		mike.weiner@wearebent.com
+		http://www.wearebent.com
+		
+	Features:
+		Allows you to convert selected bitmaps from your library to a symbol type of your choice.
+		Other features include: slicing leading/trailing characters of the symbol names, 
+		adding a prefix and/or suffix to the symbol names, adding the symbols to a folder, and setting the registration point of the symbols.
+	
+	This is released under a Creative Commons license. More information can be found here: http://creativecommons.org/licenses/by/2.5/
+-->
+
+<dialog title="Options" buttons="accept,cancel">
+	<grid>
+		<columns>
+			<column />
+			<column />
+		</columns>
+		<rows>
+			<row>
+				<label value="Symbol Behavior:" />
+				<menulist id="str_behavior">
+					<menupop>
+						<menuitem label="Movie Clip" selected="true" />
+						<menuitem label="Button" />
+						<menuitem label="Graphic" />
+					</menupop>
+				</menulist>
+			</row>
+			<row>
+				<label value="Registration Point:" />
+				<menulist id="str_registration">
+					<menupop>
+						<menuitem label="Top Left" selected="true" />
+						<menuitem label="Top Center" />
+						<menuitem label="Top Right" />
+						<menuitem label="Center Left" />
+						<menuitem label="Center" />
+						<menuitem label="Center Right" />
+						<menuitem label="Bottom Left" />
+						<menuitem label="Bottom Center" />
+						<menuitem label="Bottom Right" />
+					</menupop>
+				</menulist>
+			</row>
+			<row>
+				<br />
+			</row>
+			<row>
+				<label value="Folder Name:" />
+				<textbox id="str_folderName" />
+			</row>
+			<row>
+				<label value="Symbol Prefix:" />
+				<textbox id="str_symbolPrefix" value="mc_" />
+			</row>
+			<row>
+				<label value="Symbol Suffix:" />
+				<textbox id="str_symbolSuffix" value="" />
+			</row>
+			<row>
+				<br />
+			</row>
+			<row>
+				<label value="Strip Leading Characters: " />
+				<textbox id="int_stripLeading" width="3" value="0" />
+			</row>
+			<row>
+				<label value="Strip Trailing Characters: " />
+				<textbox id="int_stripTrailing" width="3" value="4" />
+			</row>
+		</rows>
+	</grid>
+</dialog>

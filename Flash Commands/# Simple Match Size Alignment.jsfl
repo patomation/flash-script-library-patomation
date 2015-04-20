@@ -1,0 +1,1 @@
+﻿//// # Simple Match Size Alignment//// This command was recorded by Adobe Flash CS6.//// Match Size: true, true, falsefl.getDocumentDOM().match(true, true, false);// Align: left, falsefl.getDocumentDOM().align('left', false);// Align: top, falsefl.getDocumentDOM().align('top', false);
